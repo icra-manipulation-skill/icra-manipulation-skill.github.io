@@ -174,6 +174,8 @@ If you experience issues or have cool features to add, feel free to [fork this t
                 <div class="card-body">
                     <h5 class="card-title  text-center">
                     <a href="{{ organizer.webpage }}">{{ organizer.name }}</a></h5>
+                     <h5 class="card-title  text-center">
+                    <a href="{{ organizer.affil_link }}">{{ organizer.affil }}</a></h5>
                 </div>
             </div>
         </div>
