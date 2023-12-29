@@ -1,0 +1,70 @@
+- speaker: Organizers
+  title: Opening Remarks
+  time: 08:25 - 08:30
+  type: logistics
+
+- speaker: Speaker Name
+  title: Long Keynote
+  speaker_webpage: ""
+  affliation: University
+  time: 08:30 - 09:00
+  img: jane.jpg
+  type: keynote
+
+- speaker: Speaker Name
+  title: Spotlight Talks
+  time: 09:00 - 10:00
+  img: jane.jpg
+  type: keynote
+
+- speaker: null
+  title: Coffee Break and Posters
+  time: 10:00 - 11:00
+  img: jane.jpg
+  type: keynote
+
+- speaker: null
+  title: Keynotes
+  speaker_webpage: ""
+  affliation: University
+  time: 11:00 - 11:30
+  img: jane.jpg
+  type: keynote
+
+- speaker: Name 1, Name 2, Name 3, Name 4
+  title: Panel Discussion
+  time: 11:30 - 12:30
+  img: jane.jpg
+  type: keynote
+
+- speaker: null
+  title: Lunch Break
+  time: 12:30 - 13:30
+  img: jane.jpg
+  type: keynote
+
+- speaker: null
+  title: Keynotes
+  speaker_webpage: ""
+  affliation: University
+  time: 13:30 - 14:00
+  img: jane.jpg
+  type: keynote
+
+- speaker: Name 1, Name 2, Name 3, Name 4
+  title: Debate 
+  time: 14:00 - 15:00
+  img: jane.jpg
+  type: keynote
+
+- speaker: null
+  title: Coffee Break and Posters
+  time: 15:00 - 16:00
+  img: jane.jpg
+  type: keynote
+
+- speaker: Organizers
+  title: Closing Remarks
+  time: 16:00 - 16:30
+  img: jane.jpg
+  type: keynote

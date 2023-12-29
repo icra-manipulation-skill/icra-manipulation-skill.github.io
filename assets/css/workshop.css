@@ -1,0 +1,247 @@
+div.speaker {
+  margin: 2em 0;
+}
+
+div.speaker
+div.speaker-pic {
+  text-align: center;
+}
+
+div.speaker p.speaker-abstract,
+div.speaker p.speaker-bio {
+  font-size: 1em;
+  line-height: 1.5em;
+}
+
+#organizers {
+  margin-top: 1em;
+}
+
+.people-pic {
+  max-width: 100px;
+  max-height: 100px;
+  border-radius: 50%;
+  padding: 0;
+}
+
+.people-name {
+  margin: 10px 0 10px;
+}
+
+.people-name h6 {
+  margin: 4px 0;
+  font-weight: 100;
+  font-size: 11px;
+}
+@media (max-width:1000px) {
+    div.speaker img.people-pic {
+        max-width: 100px;
+        max-height: 100px;
+    }
+    .people-pic {
+        max-width: 65px;
+        max-height: 65px;
+    }
+    .people-name {
+        font-size: 13px;
+        line-height: 18px;
+    }
+    .people-name h6 {
+        font-size: 9px;
+    }
+}
+
+.paper-pic {
+  max-width: 200px;
+  max-height: 100px;
+  padding: 0;
+}
+
+div.award {
+    padding: 15px 0px 15px 25px;
+}
+div.award h3 {
+    font-size: 15px;
+}
+span.award-sponsor {
+    color: #666;
+    font-size: 13px;
+}
+span.award-sponsor a ,
+span.award-other a {
+    text-decoration: none;
+    border: 0;
+}
+span.award-sponsor img {
+    height: 18px;
+    margin: 0 5px;
+}
+div.award:last-child {
+    padding-top: 30px;
+}
+span.award-other img {
+    height: 18px;
+    margin-top: 2px;
+    vertical-align: top;
+}
+
+.table.schedule tr.noline td {
+  border-top: none;
+}
+.table.schedule tr td {
+  padding-top: 0;
+  padding-bottom: 8px;
+}
+
+
+.rounded-img {
+  border-radius: 50%;
+  object-fit: cover; /* Optional: for better image handling */
+  width: 100%; /* Percentage of the container */
+  height: auto; /* Maintain aspect ratio */
+  max-width: 150px; /* Maximum size */
+  margin-bottom: 15px;
+}
+
+
+.card-img-container {
+  display: flex;
+  justify-content: center; /* Centers the child horizontally */
+  align-items: center; /* Centers the child vertically if needed */
+  padding: 15px;
+}
+
+.card-title {
+  margin-top: 0;
+}
+
+
+/* Flip Clock Animation */
+
+#flip-clock {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Arial', sans-serif;
+  font-size: 2em;
+}
+
+.flip-number {
+  position: relative;
+  margin: 0 5px;
+  height: 50px;
+  overflow: hidden;
+  color: black;
+}
+
+.flip-number::before,
+.flip-number::after {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 50%;
+  background: white;
+  border: 1px solid #ccc;
+  box-sizing: border-box;
+  text-align: center;
+  line-height: 25px;
+}
+
+.flip-number::after {
+  top: unset;
+  bottom: 0;
+  line-height: 25px;
+}
+
+.colon {
+  margin: 0 5px;
+}
+
+/* End of Flip Clock Animation */
+
+/* Time Zone Button */
+/* 
+.timezone-btn {
+  background-color: #ffbe98;
+  color: #222;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  border: none;
+  border-radius: 8px;
+  transition: background-color 0.3s, box-shadow 0.3s;
+}
+
+.timezone-btn:hover {
+  background-color: #fad6c1;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+}
+ */
+ #timezone-buttons {
+  position: relative;
+  display: inline-block;
+}
+
+.timezone-radio {
+  display: none;
+}
+
+.timezone-label {
+  background-color: #f0f0f0;
+  border: 1px solid #ddd;
+  padding: 10px 20px;
+  cursor: pointer;
+  display: inline-block;
+}
+
+#slider {
+  position: absolute;
+  bottom: -1px; /* Adjust as needed */
+  width: 50%;
+  height: 5px;
+  background-color: #ffbe989d;
+  transition: left 0.3s ease-out;
+}
+
+#tokyo-time-btn:checked ~ #slider {
+  left: 0;
+}
+
+#local-time-btn:checked ~ #slider {
+  left: 50%;
+}
+
+
+/* Countdown Style */
+
+.countdown-container {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  font-family: 'Arial', sans-serif;
+}
+
+.time-box {
+  margin: 0 10px;
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.8); /* Adjust opacity as needed */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
+
+.time-number {
+  display: block;
+  font-size: 2em; /* Large number display */
+  color: #333; /* Number color */
+  margin-bottom: 5px;
+}
+
+.time-label {
+  font-size: 1em; /* Smaller label text */
+  color: #777; /* Label text color */
+  text-transform: uppercase; /* UPPERCASE label */
+}

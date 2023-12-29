@@ -1,0 +1,29 @@
+- name: Chuer Pan
+  webpage: https://jane.doe
+  affil: Buzz University
+  affil_link: https://buzz.edu
+  img: Chuer_Pan.jpeg
+
+- name: Edward Johns
+  webpage: https://john.smith
+  affil: Tech Institute
+  affil_link: https://techinstitute.edu
+  img: Edward_Johns.jpeg
+
+- name: Julen Urain
+  webpage: https://robotgradient.com/
+  affil: TU Darmstadt
+  affil_link: https://www.ias.informatik.tu-darmstadt.de/
+  img: Julen_Urain.jpeg
+
+- name: Mohit Shridhar
+  webpage: https://mohitshridhar.com/
+  affil: Dyson Robotics
+  affil_link: https://www.imperial.ac.uk/dyson-robotics-lab/
+  img: Mohit_Shridhar.png
+
+- name: Yifeng Zhu
+  webpage: cs.utexas.edu/~yifengz
+  affil: UT Austin
+  affil_link: https://robotics.utexas.edu/
+  img: Yifeng_Zhu.jpeg
