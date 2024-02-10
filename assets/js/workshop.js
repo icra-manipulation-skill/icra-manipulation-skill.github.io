@@ -1,4 +1,4 @@
-
+var DateTime = luxon.DateTime;
 
 // ********** CountDown Functions **********
 
@@ -93,44 +93,41 @@ function splitTimeRange(timeRangeString) {
     return [startTime, endTime];
 }
 
-function convertTimeRange(timeRangeString, targetTimeZone) {
-    const [startTime, endTime] = splitTimeRange(timeRangeString);
-    return `${convertSingleTime(startTime, targetTimeZone)} - ${convertSingleTime(endTime, targetTimeZone)}`;
-}
+
 
 function getTimezoneOffset(timeZone) {
     // Current time in UTC
-    const nowUtc = new Date();
+    // const nowUtc = new Date();
 
-    // Current time in the specified timezone
-    const nowTimeZone = new Date(nowUtc.toLocaleString('en-US', { timeZone }));
+    // // Current time in the specified timezone
+    // const nowTimeZone = new Date(nowUtc.toLocaleString('en-US', { timeZone }));
 
-    // Calculate the offset in minutes
-    return (nowTimeZone - nowUtc) / 60000;
+    // // Calculate the offset in minutes
+    // return (nowTimeZone - nowUtc) / 60000;
+
+    // const timezone = 'Asia/Tokyo';
+
+    // Get the current date and time in the specified timezone
+    const nowInTimezone = DateTime.now().setZone(timeZone);
+
+    // Get the offset in minutes
+    const offset = nowInTimezone.offset;
+    console.log(timeZone, ": ", offset);
+    return offset
 }
 
 function convertSingleTime(timeString, targetTimeZone) {
     const tokyoTimeZone = "Asia/Tokyo";
     let [hour, minute] = timeString.split(':');
 
-    // Local timezone offset
-    const localOffset = new Date().getTimezoneOffset(Intl.DateTimeFormat().resolvedOptions().timeZone);
-    const tokyoOffset = getTimezoneOffset(tokyoTimeZone);
-    const offsetDifference = Math.round((localOffset - tokyoOffset) / 60);
-    // round it to int
+    const timeInTokyo = DateTime.now().setZone('Asia/Tokyo').set({ hour: hour, minute: minute });
+    const timeInTargetTimeZone = timeInTokyo.setZone(targetTimeZone);
+    return timeInTargetTimeZone.toFormat('hh:mm a');
+}
 
-    // convert hour from tokyooffset to localoffset
-    hour = hour - offsetDifference;
-
-    // console.log(offsetDifference, hour);
-
-    const date = new Date(new Date().toLocaleDateString('en-US', { timeZone: tokyoTimeZone }));
-
-    date.setHours(hour, minute, 0, 0);
-    // console.log(targetTimeZone, date)
-    const timeFormat = { hour: 'numeric', minute: 'numeric', timeZone: targetTimeZone};
-    return new Intl.DateTimeFormat("en-US", timeFormat).format(date);
-
+function convertTimeRange(timeRangeString, targetTimeZone) {
+    const [startTime, endTime] = splitTimeRange(timeRangeString);
+    return `${convertSingleTime(startTime, targetTimeZone)} - ${convertSingleTime(endTime, targetTimeZone)}`;
 }
 
 function getCityFromTimezone(timezone) {
@@ -152,6 +149,7 @@ function updateTimeDisplay(timeZone) {
 
         if (timeDisplay) {
             timeDisplay.textContent = convertTimeRange(tokyoTime, timeZone);
+            console.log(timeDisplay.textContent, " data is: ", tokyoTime);
         }
         if (timezoneInfo) {
             const city = getCityFromTimezone(timeZone);
