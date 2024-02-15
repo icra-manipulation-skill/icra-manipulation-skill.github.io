@@ -112,7 +112,7 @@ function getTimezoneOffset(timeZone) {
 
     // Get the offset in minutes
     const offset = nowInTimezone.offset;
-    console.log(timeZone, ": ", offset);
+    // console.log(timeZone, ": ", offset);
     return offset
 }
 
@@ -149,7 +149,7 @@ function updateTimeDisplay(timeZone) {
 
         if (timeDisplay) {
             timeDisplay.textContent = convertTimeRange(tokyoTime, timeZone);
-            console.log(timeDisplay.textContent, " data is: ", tokyoTime);
+            // console.log(timeDisplay.textContent, " data is: ", tokyoTime);
         }
         if (timezoneInfo) {
             const city = getCityFromTimezone(timeZone);

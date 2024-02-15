@@ -41,10 +41,10 @@ header_pages:
 # - speakers.md
 # - organizers.md
 # - callforpapers.md
-- schedule.md
-- papers.md
-- poll.md
-- contactus.md
+# - schedule.md
+# - papers.md
+# - poll.md
+# - contactus.md
 
 # # Specify the name of a file to show as a masthead graphic at the top of each page, instead of a title, here:
 # masthead: assets/img/banner.jpg

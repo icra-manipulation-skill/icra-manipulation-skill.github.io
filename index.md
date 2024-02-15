@@ -113,22 +113,6 @@ If you experience issues or have cool features to add, feel free to [fork this t
                     <div align="center" class="timezone-info"></div>
                 </p>
             </td>
-            <!-- <td>
-                <p align="center">
-                    {{ scheduleitem.time }}
-                </p>
-            </td> -->
-            <!-- <td>
-                <div class="col-xs-12">
-                    <p align="center">
-                        {% if scheduleitem.img %}
-                            <img class="people-pic" src="{{ scheduleitem.img | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-                        {% else %}
-                            <img class="people-pic" src="{{ 'avatar.jpg' | prepend: '/assets/img/speakers/' | prepend: site.baseurl | prepend: site.url }}" target="_blank">
-                        {% endif %}
-                    </p>
-                </div>
-            </td> -->
             <td align="center">
                 <div class="col-xs-12">
                     <b>{{ scheduleitem.title }}</b>

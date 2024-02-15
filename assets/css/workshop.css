@@ -96,11 +96,13 @@ span.award-other img {
 
 .rounded-img {
   border-radius: 50%;
+  /* display: flex;
+  justify-content: center; */
   object-fit: cover; /* Optional: for better image handling */
   width: 100%; /* Percentage of the container */
   height: auto; /* Maintain aspect ratio */
   max-width: 150px; /* Maximum size */
-  margin-bottom: 15px;
+  margin-bottom: 15px; 
 }
 
 
