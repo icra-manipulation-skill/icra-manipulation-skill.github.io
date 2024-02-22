@@ -95,14 +95,12 @@ span.award-other img {
 
 
 .rounded-img {
-  border-radius: 50%;
-  /* display: flex;
-  justify-content: center; */
-  object-fit: cover; /* Optional: for better image handling */
-  width: 100%; /* Percentage of the container */
-  height: auto; /* Maintain aspect ratio */
-  max-width: 150px; /* Maximum size */
-  margin-bottom: 15px; 
+  border-radius: 50%!important;
+  object-fit: cover;
+  width: 150px!important;
+  height: 150px!important;
+  max-width: 150px;
+  margin-bottom: 15px;
 }
 
 
@@ -225,6 +223,18 @@ span.award-other img {
   justify-content: center;
   text-align: center;
   font-family: 'Arial', sans-serif;
+}
+
+.submission-box {
+  margin: 0 10px; /* Center horizontally */
+  padding: 10px;
+  background: rgba(255, 255, 255, 0.8); /* Adjust opacity as needed */
+  border-radius: 5px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+  display: flex;
+  justify-content: center; Center horizontally
+  align-items: center; /* Center vertically */
+  max-width: 250px; /* Adjust the value as needed */
 }
 
 .time-box {

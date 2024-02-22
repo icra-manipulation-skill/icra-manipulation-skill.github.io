@@ -1,11 +1,11 @@
 
-- name: Alberto Rodriguez
-  webpage: https://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU
-  affil: MIT
-  affil_link: https://mcube.mit.edu/
-  img: jane.jpg
-  bio: >
-    [Alberto moved to BD now. We should use his new bio.]
+# - name: Alberto Rodriguez
+#   webpage: https://meche.mit.edu/people/faculty/ALBERTOR@MIT.EDU
+#   affil: MIT
+#   affil_link: https://mcube.mit.edu/
+#   img: jane.jpg
+#   bio: >
+#     [Alberto moved to BD now. We should use his new bio.]
 
 - name: Shuran Song
   webpage: https://shurans.github.io/
@@ -57,4 +57,10 @@
     Ankit is a Research Scientist in Robotics at NVIDIA. He received Ph.D. in Computer Science at Princeton University, where he was advised by Prof. Jia Deng.
 
 
-
+- name: Zipeng Fu
+  webpage: https://zipengfu.github.io/
+  affil: Stanford University
+  affil_link: https://ai.stanford.edu/
+  img: jane.jpg
+  bio: >
+    Zipeng is a Ph.D. student in the Computer Science Department at Stanford University, advised by Prof. Chelsea Finn. His research interests lie in the intersection of Robotics, Machine Learning and Computer Vision. 

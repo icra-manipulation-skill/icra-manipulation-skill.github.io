@@ -49,7 +49,9 @@ If you experience issues or have cool features to add, feel free to [fork this t
                 </div>
                 <div class="card-body">
                     <h5 class="card-title  text-center"><a href="{{ speaker.webpage }}"> {{speaker.name}} </a></h5>
-                    <p class="card-text">{{ speaker.bio }}</p>
+                    <h5 class="card-title  text-center">
+                    <a href="{{ speaker.affil_link }}">{{ speaker.affil }}</a></h5>
+                    <!-- <p class="card-text">{{ speaker.bio }}</p> -->
                 </div>
             </div>
         </div>
@@ -61,6 +63,10 @@ If you experience issues or have cool features to add, feel free to [fork this t
 
 <section id="papers">
     <h2 class="mb-3">Call For Papers</h2>
+    <div class="submission-box">
+    <a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/Manipulation_Skills">OpenReview Submission</a>
+    </div>
+    <br>
     We would like to call for papers on the following topics:
         <ul>
             <li>Topic 1</li>
