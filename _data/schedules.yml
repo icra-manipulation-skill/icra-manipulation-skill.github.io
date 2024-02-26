@@ -1,49 +1,43 @@
 - speaker: Organizers
   title: Opening Remarks
-  time: 08:25 - 08:30
+  time: 09:00 - 09:05
   type: logistics
 
 - speaker: Shuran Song
   title: Long Keynote
   speaker_webpage: ""
   affliation: University
-  time: 08:30 - 09:00
+  time: 09:05 - 09:30
   img: jane.jpg
   type: keynote
 
 - speaker: Authors of contributions
   title: Spotlight Talks
-  time: 09:00 - 10:00
+  time: 09:30 - 10:30
   img: jane.jpg
   type: keynote
 
 - speaker: null
   title: Coffee Break and Posters
-  time: 10:00 - 11:00
+  time: 10:30 - 11:30
   img: jane.jpg
   type: keynote
 
-- speaker: null
+- speaker: Yunzhu Li, Georgia Chalvatzaki, Zipeng Fu
   title: Keynotes
   speaker_webpage: ""
   affliation: University
-  time: 11:00 - 11:30
-  img: jane.jpg
-  type: keynote
-
-- speaker: Name 1, Name 2, Name 3, Name 4
-  title: Panel Discussion
-  time: 11:30 - 12:30
+  time: 11:30 - 12:00
   img: jane.jpg
   type: keynote
 
 - speaker: null
   title: Lunch Break
-  time: 12:30 - 13:30
+  time: 12:00 - 13:30
   img: jane.jpg
   type: keynote
 
-- speaker: null
+- speaker: Youngwoon Lee, Ankit Goyal
   title: Keynotes
   speaker_webpage: ""
   affliation: University
@@ -51,7 +45,7 @@
   img: jane.jpg
   type: keynote
 
-- speaker: Name 1, Name 2, Name 3, Name 4
+- speaker: TBD
   title: Debate 
   time: 14:00 - 15:00
   img: jane.jpg
