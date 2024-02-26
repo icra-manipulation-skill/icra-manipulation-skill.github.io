@@ -13,6 +13,15 @@ layout: home
     <a href="">[Live Stream Link]</a>
 </p>
 
+
+<video autoplay muted loop style="object-fit: cover; height: 320px; width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">
+    <source src="assets/img/teaser_video.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+
+<br>
+<br>
+
 In recent years, the field of general-purpose robot manipulation has seen exciting progress, showcasing a wide range of success in sensorimotor skill learning. However, unlike research in assembly and logistics manipulations where there are clearly defined, practically/industrially driven tasks to solve, general-purpose robot manipulation research—geared towards everyday situations—lacks community-wise agreement on which robotics tasks are most important to evaluate. To propel this field, our workshop aims to sketch the future roadmap of sensorimotor skill learning for robot manipulation and focuses on the following questions:
 
 <ul>
@@ -25,7 +34,11 @@ In recent years, the field of general-purpose robot manipulation has seen exciti
 We envision that the workshop will help the manipulation community make progress toward understanding which problems we should focus on to build more generalizable and powerful manipulation robots.
 
 
-![](assets/img/banner.jpg)
+<!-- ![](assets/img/banner.jpg) -->
+
+
+
+
 
 <!-- The theme is quite easy to use if you're familiar with Jekyll. The following collections are implemented:
 1. **Speakers**: Curate a [speaker list like this one](speakers) from a set of markdown files, one per speaker. Crops and displays images if available. Adds a short bio. See files in the `_speakers` directory for examples.
