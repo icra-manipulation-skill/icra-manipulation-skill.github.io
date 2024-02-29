@@ -76,20 +76,38 @@ If you experience issues or have cool features to add, feel free to [fork this t
 
 <section id="papers">
     <h2 class="mb-3">Call For Papers</h2>
+    <p>Submission deadline: <b>March 31st, 11:59PM UTC-0</b></p>
     <div class="submission-box">
     <a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/Manipulation_Skills">OpenReview Submission</a>
     </div>
     <br>
-    We would like to call for papers on the following topics:
-        <ul>
-            <li>Topic 1</li>
-            <li>Topic 2</li>
-            <li>Topic 3</li>
-            <li>Topic 4</li>
-        </ul>
-    Additionally, to encourage discussion on the workshop topic, we ask authors to provide 1~2 paragraphs on how their work relates to the workshop theme. These information will help us organize the workshop discussion and better feature the accepted works on the website. The submission deadline is in:
+     We invite researchers and practitioners to submit papers that highlight innovative aspects of manipulation skills and their learning methodologies. Submissions should showcase advancements in enabling robots to perform a variety of tasks, focusing on both solved and unsolved manipulation challenges. We are particularly interested in works that:
+    <ul>
+        <li>Demonstrate novel manipulation tasks that robots can now perform or highlight critical gaps in current capabilities.</li>
+        <li>Propose criteria or frameworks for evaluating important manipulation tasks, including discussions on necessary assumptions for fair assessment.</li>
+        <li>Provide insights into the future directions of sensorimotor skill learning for robot manipulation, contributing to a broader understanding of how to develop more generalizable and potent manipulation systems.</li>
+    </ul>
+    Accepted papers will be presented either as posters or orals, and will be archived on the workshop website with the authors’ consent. All papers will be presented on-site during the workshop.
     <br>
     <br>
+    <h4 class="mb-3">Submission Guidelines</h4>
+    There is <b>no</b> strict page limit in alignment with RSS conventions; however, we encourage submissions to be within 4-8 pages (excluding references) to facilitate thorough review.
+    <br>
+    Papers should be submitted in PDF format, adhering to the provided template and submission guidelines on our workshop website.
+    <br>
+    Submissions will be evaluated based on their originality, technical quality, relevance to the workshop themes, and potential to spark discussions on the future of robot manipulation.
+    <br>
+    <b>Additionally</b>, to encourage discussion on the workshop topic, we ask authors to provide 1~2 paragraphs on how their work relates to the workshop theme. These information will help us organize the workshop discussion and better feature the accepted works on the website.
+    Accepted papers will be presented either as posters or orals, and will be archived on the workshop website with the authors’ consent. All papers will be presented on-site during the workshop.
+
+    <br>
+    <br>
+    
+</section>
+
+
+<section id="schedules">
+    <h2 class="mb-3">Schedule</h2>
     <div class="countdown-container">
     <div class="time-box">
         <span id="days" class="time-number">00</span>
@@ -104,12 +122,6 @@ If you experience issues or have cool features to add, feel free to [fork this t
         <span class="time-label">minutes</span>
     </div>
     </div>
-    
-</section>
-
-
-<section id="schedules">
-    <h2 class="mb-3">Schedule</h2>
     <!-- Schedule -->
     <div id="real-time-clock">
     </div>
