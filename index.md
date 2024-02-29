@@ -91,13 +91,13 @@ If you experience issues or have cool features to add, feel free to [fork this t
     <br>
     <br>
     <h4 class="mb-3">Submission Guidelines</h4>
-    There is <b>no</b> strict page limit in alignment with RSS conventions; however, we encourage submissions to be within 4-8 pages (excluding references) to facilitate thorough review.
+    There is <b>no</b> strict page limit; however, we encourage submissions to be within 4-8 pages (excluding references) to facilitate thorough review.
     <br>
     Papers should be submitted in PDF format, adhering to the provided template and submission guidelines on our workshop website.
     <br>
     Submissions will be evaluated based on their originality, technical quality, relevance to the workshop themes, and potential to spark discussions on the future of robot manipulation.
     <br>
-    <b>Additionally</b>, to encourage discussion on the workshop topic, we ask authors to provide 1~2 paragraphs on how their work relates to the workshop theme. These information will help us organize the workshop discussion and better feature the accepted works on the website.
+    <b>Additionally</b>, to encourage discussion on the workshop topic, we ask authors to provide 1~2 paragraphs of statements on how their work relates to the workshop theme (See the submission page). These information will help us organize the workshop discussion and better feature the accepted works on the website.
     Accepted papers will be presented either as posters or orals, and will be archived on the workshop website with the authors’ consent. All papers will be presented on-site during the workshop.
 
     <br>
