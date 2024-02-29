@@ -87,7 +87,7 @@ If you experience issues or have cool features to add, feel free to [fork this t
         <li>Propose criteria or frameworks for evaluating important manipulation tasks, including discussions on necessary assumptions for fair assessment.</li>
         <li>Provide insights into the future directions of sensorimotor skill learning for robot manipulation, contributing to a broader understanding of how to develop more generalizable and potent manipulation systems.</li>
     </ul>
-    Accepted papers will be presented either as posters or orals, and will be archived on the workshop website with the authors’ consent. All papers will be presented on-site during the workshop.
+    Accepted papers will be presented as spotlight talks and the posters, and will be archived on the workshop website with the authors’ consent. All papers will be presented on-site during the workshop.
     <br>
     <br>
     <h4 class="mb-3">Submission Guidelines</h4>
