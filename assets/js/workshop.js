@@ -3,7 +3,8 @@ var DateTime = luxon.DateTime;
 // ********** CountDown Functions **********
 
 // Set the end date for the countdown
-var countDownDate = new Date("May 13, 2024 09:00:00").getTime();
+// var countDownDate = new Date("May 13, 2024 09:00:00").getTime();
+var countDownDate = new Date("Mar 31, 2024 23:59:00").getTime();
 
 // Update the countdown every 1 second
 var countdownFunction = setInterval(function() {
