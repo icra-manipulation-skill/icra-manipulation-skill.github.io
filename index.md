@@ -107,7 +107,7 @@ If you experience issues or have cool features to add, feel free to [fork this t
     <h4 class="mb-3">Submission Guidelines</h4>
     There is <b>no</b> strict page limit; however, we encourage submissions to be within 4-8 pages (excluding references) to facilitate thorough review.
     <br>
-    Papers should be submitted in PDF format, adhering to the provided template and submission guidelines on our workshop website.
+    Papers should be submitted in PDF format, adhering to the ICRA template and submission guidelines on our workshop website.
     <br>
     Submissions will be evaluated based on their originality, technical quality, relevance to the workshop themes, and potential to spark discussions on the future of robot manipulation.
     <br>
