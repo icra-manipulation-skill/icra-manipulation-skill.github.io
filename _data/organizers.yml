@@ -1,11 +1,11 @@
 - name: Chuer Pan
-  webpage: https://jane.doe
+  webpage: https://chuerpan.com/
   affil: Stanford University
-  affil_link: https://buzz.edu
+  affil_link: https://real.stanford.edu/
   img: Chuer_Pan.jpeg
 
 - name: Edward Johns
-  webpage: https://john.smith
+  webpage: https://www.imperial.ac.uk/people/e.johns
   affil: Imperial College London
   affil_link: https://techinstitute.edu
   img: Edward_Johns.jpeg
@@ -23,7 +23,7 @@
   img: Mohit_Shridhar.png
 
 - name: Yifeng Zhu
-  webpage: cs.utexas.edu/~yifengz
+  webpage: https://cs.utexas.edu/~yifengz
   affil: UT Austin
   affil_link: https://robotics.utexas.edu/
   img: Yifeng_Zhu.jpeg
