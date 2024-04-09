@@ -76,24 +76,10 @@ If you experience issues or have cool features to add, feel free to [fork this t
 
 <section id="papers">
     <h2 class="mb-3">Call For Papers</h2>
-    <p>Submission deadline: <b>March 31st, 11:59PM UTC-0</b></p>
-    <div class="submission-box">
+    <!-- <p>Submission deadline: <b>March 31st, 11:59PM UTC-0</b></p> -->
+    <!-- <div class="submission-box">
     <a href="https://openreview.net/group?id=IEEE.org/2024/ICRA/Workshop/Manipulation_Skills">OpenReview Submission</a>
-    </div>
-    <div class="countdown-container">
-    <div class="time-box">
-        <span id="days" class="time-number">00</span>
-        <span class="time-label">days</span>
-    </div>
-    <div class="time-box">
-        <span id="hours" class="time-number">00</span>
-        <span class="time-label">hours</span>
-    </div>
-    <div class="time-box">
-        <span id="minutes" class="time-number">00</span>
-        <span class="time-label">minutes</span>
-    </div>
-    </div>
+    </div> -->
     <br>
      We invite researchers and practitioners to submit papers that highlight innovative aspects of manipulation skills and their learning methodologies. Submissions should showcase advancements in enabling robots to perform a variety of tasks, focusing on both solved and unsolved manipulation challenges. We are particularly interested in works that:
     <ul>
@@ -123,6 +109,20 @@ If you experience issues or have cool features to add, feel free to [fork this t
 <section id="schedules">
     <h2 class="mb-3">Schedule</h2>
     <!-- Schedule -->
+    <div class="countdown-container">
+    <div class="time-box">
+        <span id="days" class="time-number">00</span>
+        <span class="time-label">days</span>
+    </div>
+    <div class="time-box">
+        <span id="hours" class="time-number">00</span>
+        <span class="time-label">hours</span>
+    </div>
+    <div class="time-box">
+        <span id="minutes" class="time-number">00</span>
+        <span class="time-label">minutes</span>
+    </div>
+    </div>
     <div id="real-time-clock">
     </div>
     <div class = "post-content">
