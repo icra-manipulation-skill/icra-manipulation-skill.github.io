@@ -1,33 +1,33 @@
 - speaker: Organizers
   title: Opening Remarks
-  time: 09:00 - 09:05
+  time: 09:00 - 09:20
   type: logistics
 
 - speaker: Shuran Song
-  title: Long Keynote
+  title: Opening Keynote
   speaker_webpage: ""
   affliation: University
-  time: 09:05 - 09:30
+  time: 09:20 - 09:40
   img: jane.jpg
   type: keynote
 
 - speaker: Authors of contributions
   title: Spotlight Talks
-  time: 09:30 - 10:30
+  time: 09:40 - 10:20
   img: jane.jpg
   type: keynote
 
 - speaker: null
   title: Coffee Break and Posters
-  time: 10:30 - 11:30
+  time: 10:20 - 11:00
   img: jane.jpg
   type: keynote
 
-- speaker: Yunzhu Li, Georgia Chalvatzaki, Zipeng Fu
+- speaker: Yunzhu Li, Ankit Goyal Zipeng Fu
   title: Keynotes
   speaker_webpage: ""
   affliation: University
-  time: 11:30 - 12:00
+  time: 11:00 - 12:00
   img: jane.jpg
   type: keynote
 
@@ -37,28 +37,34 @@
   img: jane.jpg
   type: keynote
 
-- speaker: Youngwoon Lee, Ankit Goyal
+- speaker: Georgia Chalvatzaki, Lin Shao
   title: Keynotes
   speaker_webpage: ""
   affliation: University
-  time: 13:30 - 14:00
+  time: 13:30 - 14:10
   img: jane.jpg
   type: keynote
 
-- speaker: TBD
-  title: Debate 
-  time: 14:00 - 15:00
+- speaker: Authors of contributions
+  title: Spotlight Talks
+  time: 14:10 - 15:00
   img: jane.jpg
   type: keynote
 
 - speaker: null
   title: Coffee Break and Posters
-  time: 15:00 - 16:00
+  time: 15:00 - 15:30
+  img: jane.jpg
+  type: keynote
+
+- speaker:  null
+  title: Panel <br> Where should we head to in learning manipulation skills?
+  time: 15:30 - 16:30
   img: jane.jpg
   type: keynote
 
 - speaker: Organizers
   title: Closing Remarks
-  time: 16:00 - 16:30
+  time: 16:30 -  16:45
   img: jane.jpg
   type: keynote
