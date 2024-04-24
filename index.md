@@ -148,6 +148,12 @@ If you experience issues or have cool features to add, feel free to [fork this t
                 <div class="col-xs-12">
                     <b>{{ scheduleitem.title }}</b>
                 </div>
+                <br>
+                {% if scheduleitem.description %}
+                <div class="col-xs-12" align="center">
+                    <p>{{ scheduleitem.description }}</p>
+                </div>
+                {% endif %}
             </td>
             <td>
                 <div class="people-name text-center">

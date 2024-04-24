@@ -10,6 +10,7 @@
   time: 09:20 - 09:40
   img: jane.jpg
   type: keynote
+  description: "Navigating the Upward Spiral for Sensorimotor Learning"
 
 - speaker: Authors of contributions
   title: Spotlight Talks
@@ -23,27 +24,67 @@
   img: jane.jpg
   type: keynote
 
-- speaker: Yunzhu Li, Ankit Goyal Zipeng Fu
-  title: Keynotes
+- speaker: Yunzhu Li
+  title: Keynote 1
   speaker_webpage: ""
   affliation: University
-  time: 11:00 - 12:00
+  time: 11:00 - 11:20
   img: jane.jpg
   type: keynote
+  description: "Advancing Robot Learning: Practical and Societal Impact"
+
+- speaker: Ankit Goyal
+  title: Keynote 2
+  speaker_webpage: ""
+  affliation: University
+  time: 11:20 - 11:40
+  img: jane.jpg
+  type: keynote
+  description: "Towards fast and precise sensorimotor skill learning"
+
+- speaker: Zipeng Fu
+  title: Keynote 3
+  speaker_webpage: ""
+  affliation: University
+  time: 11:40 - 12:00
+  img: jane.jpg
+  type: keynote
+  description: "Towards Deployable Robot Learning Systems"
 
 - speaker: null
   title: Lunch Break
-  time: 12:00 - 13:30
+  time: 12:00 - 13:10
   img: jane.jpg
   type: keynote
 
-- speaker: Georgia Chalvatzaki, Lin Shao
-  title: Keynotes
+- speaker: Brian Okorn
+  title: Keynote 4
   speaker_webpage: ""
   affliation: University
-  time: 13:30 - 14:10
+  time: 13:10 - 13:30
   img: jane.jpg
   type: keynote
+  description: ""
+
+
+- speaker: Lin Shao
+  title: Keynote 5
+  speaker_webpage: ""
+  affliation: University
+  time: 13:30 - 13:50
+  img: jane.jpg
+  type: keynote
+  description: "Contact Synthesis Across Diverse Robots, Objects, and Tasks: <br> Advancing Towards a Foundation Model for <br> General-Purpose Robotic Manipulation"
+
+- speaker: Georgia Chalvatzaki
+  title: Keynote 6
+  speaker_webpage: ""
+  affliation: University
+  time: 13:50 - 14:10
+  img: jane.jpg
+  type: keynote
+  description: "TBD"
+
 
 - speaker: Authors of contributions
   title: Spotlight Talks

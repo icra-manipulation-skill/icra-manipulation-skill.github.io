@@ -24,13 +24,21 @@
   bio: >
     Georgia is a Full Professor for Interactive Robot Perception & Learning at the Computer Science Department of the Technical University of Darmstadt and Hessian.AI.
 
-- name: Youngwoon Lee
-  webpage: https://youngwoon.github.io/
-  affil: Yonsei University
-  affil_link: https://www.yonsei.ac.kr/en_sc/index.jsp
-  img:  Youngwoon_Lee.png
+# - name: Youngwoon Lee
+#   webpage: https://youngwoon.github.io/
+#   affil: Yonsei University
+#   affil_link: https://www.yonsei.ac.kr/en_sc/index.jsp
+#   img:  Youngwoon_Lee.png
+#   bio: >
+#     Youngwoon is a postdoc at UC Berkeley working with Pieter Abbeel. He will be starting as an Assistant Professor in the AI department of Yonsei University in Spring 2024.
+
+- name: Brian Okorn
+  webpage: https://brianokorn.com/
+  affil: BDAII
+  affil_link: 
+  img: Brian_Okorn.jpeg
   bio: >
-    Youngwoon is a postdoc at UC Berkeley working with Pieter Abbeel. He will be starting as an Assistant Professor in the AI department of Yonsei University in Spring 2024.
+    Brian is a tech lead at BDAI.
 
 - name: Yunzhu Li
   webpage: https://yunzhuli.github.io/
