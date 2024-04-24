@@ -5,7 +5,7 @@
 
 - speaker: Shuran Song
   title: Opening Keynote
-  speaker_webpage: ""
+  speaker_webpage: "https://shurans.github.io/"
   affliation: University
   time: 09:20 - 09:40
   img: jane.jpg
@@ -26,7 +26,7 @@
 
 - speaker: Yunzhu Li
   title: Keynote 1
-  speaker_webpage: ""
+  speaker_webpage: "https://yunzhuli.github.io/"
   affliation: University
   time: 11:00 - 11:20
   img: jane.jpg
@@ -35,7 +35,7 @@
 
 - speaker: Ankit Goyal
   title: Keynote 2
-  speaker_webpage: ""
+  speaker_webpage: "https://imankgoyal.github.io/"
   affliation: University
   time: 11:20 - 11:40
   img: jane.jpg
@@ -44,7 +44,7 @@
 
 - speaker: Zipeng Fu
   title: Keynote 3
-  speaker_webpage: ""
+  speaker_webpage: "https://zipengfu.github.io/"
   affliation: University
   time: 11:40 - 12:00
   img: jane.jpg
@@ -59,17 +59,17 @@
 
 - speaker: Brian Okorn
   title: Keynote 4
-  speaker_webpage: ""
+  speaker_webpage: "https://brianokorn.com/"
   affliation: University
   time: 13:10 - 13:30
   img: jane.jpg
   type: keynote
-  description: ""
+  description: "TBD"
 
 
 - speaker: Lin Shao
   title: Keynote 5
-  speaker_webpage: ""
+  speaker_webpage: "https://linsats.github.io/"
   affliation: University
   time: 13:30 - 13:50
   img: jane.jpg
@@ -78,7 +78,7 @@
 
 - speaker: Georgia Chalvatzaki
   title: Keynote 6
-  speaker_webpage: ""
+  speaker_webpage: "https://pearl-lab.com/people/georgia-chalvatzaki/"
   affliation: University
   time: 13:50 - 14:10
   img: jane.jpg
