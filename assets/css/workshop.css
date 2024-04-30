@@ -257,3 +257,31 @@ span.award-other img {
   color: #777; /* Label text color */
   text-transform: uppercase; /* UPPERCASE label */
 }
+
+.toggle-title {
+  background-color: transparent;
+  color: #333;
+  cursor: pointer;
+  padding: 10px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 16px;
+  border-top: 1px solid white; /* visual separation of items */
+  transition: background-color 0.3s; /* Smooth transition for background color */
+}
+
+.toggle-title:hover {
+  background-color: #555; /* Change color on hover for visual feedback */
+}
+
+.toggle-content {
+  padding: 10px 20px;
+  display: none;
+  overflow: hidden;
+  background-color: transparent;
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom: 1px solid #ddd;
+}

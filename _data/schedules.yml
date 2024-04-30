@@ -10,13 +10,14 @@
   time: 09:20 - 09:40
   img: jane.jpg
   type: keynote
-  description: "Navigating the Upward Spiral for Sensorimotor Learning"
+  description: "<p>Navigating the Upward Spiral for Sensorimotor Learning</p>"
 
 - speaker: Authors of contributions
   title: Spotlight Talks
   time: 09:40 - 10:20
   img: jane.jpg
   type: keynote
+  description: "<a href='/contributions'>Details</a>"
 
 - speaker: null
   title: Coffee Break and Posters
@@ -31,7 +32,7 @@
   time: 11:00 - 11:20
   img: jane.jpg
   type: keynote
-  description: "Advancing Robot Learning: Practical and Societal Impact"
+  description: "<p>Advancing Robot Learning: Practical and Societal Impact</p>"
 
 - speaker: Ankit Goyal
   title: Keynote 2
@@ -40,7 +41,7 @@
   time: 11:20 - 11:40
   img: jane.jpg
   type: keynote
-  description: "Towards fast and precise sensorimotor skill learning"
+  description:  "<p>Towards fast and precise sensorimotor skill learning</p>"
 
 - speaker: Zipeng Fu
   title: Keynote 3
@@ -49,7 +50,7 @@
   time: 11:40 - 12:00
   img: jane.jpg
   type: keynote
-  description: "Towards Deployable Robot Learning Systems"
+  description:  "<p>Towards Deployable Robot Learning Systems</p>"
 
 - speaker: null
   title: Lunch Break
@@ -64,7 +65,7 @@
   time: 13:10 - 13:30
   img: jane.jpg
   type: keynote
-  description: "Bridging the Embodiment Gap"
+  description:  "<p>Bridging the Embodiment Gap</p>"
 
 
 - speaker: Lin Shao
@@ -74,7 +75,7 @@
   time: 13:30 - 13:50
   img: jane.jpg
   type: keynote
-  description: "Contact Synthesis Across Diverse Robots, Objects, and Tasks: <br> Advancing Towards a Foundation Model for <br> General-Purpose Robotic Manipulation"
+  description: "<p>Contact Synthesis Across Diverse Robots, Objects, and Tasks: <br> Advancing Towards a Foundation Model for <br> General-Purpose Robotic Manipulation</p>"
 
 - speaker: Georgia Chalvatzaki
   title: Keynote 6
@@ -83,7 +84,7 @@
   time: 13:50 - 14:10
   img: jane.jpg
   type: keynote
-  description: "TBD"
+  description: "<p>Mobile Manipulation Skills and Why We Need Them</p>"
 
 
 - speaker: Authors of contributions
@@ -91,6 +92,7 @@
   time: 14:10 - 15:00
   img: jane.jpg
   type: keynote
+  description: "<a href='/contributions'>Details</a>"
 
 - speaker: null
   title: Coffee Break and Posters

@@ -151,7 +151,7 @@ If you experience issues or have cool features to add, feel free to [fork this t
                 <br>
                 {% if scheduleitem.description %}
                 <div class="col-xs-12" align="center">
-                    <p>{{ scheduleitem.description }}</p>
+                    {{ scheduleitem.description }}
                 </div>
                 {% endif %}
             </td>
