@@ -309,10 +309,17 @@ span.award-other img {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
   animation-name: animatetop;
   animation-duration: 0.4s;
+  -webkit-animation: animatetop 0.4s; /* For Safari */
 }
 
 /* Animation for the modal entering */
 @keyframes animatetop {
+  from {top: -300px; opacity: 0}
+  to {top: 0; opacity: 1}
+}
+
+/* WebKit-specific animation */
+@-webkit-keyframes animatetop {
   from {top: -300px; opacity: 0}
   to {top: 0; opacity: 1}
 }
