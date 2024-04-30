@@ -9,6 +9,22 @@ function toggleContent(element) {
     }
   }
 
+  function openModal() {
+    document.getElementById('myModal').style.display = "block";
+  }
+  
+  // Function to close the modal
+  function closeModal() {
+    document.getElementById('myModal').style.display = "none";
+  }
+  
+  // Click anywhere outside of the modal to close it
+  window.onclick = function(event) {
+    if (event.target == document.getElementById('myModal')) {
+      closeModal();
+    }
+  }
+
 // ********** CountDown Functions **********
 
 // Set the end date for the countdown
