@@ -2,7 +2,7 @@
   title: "THE COLOSSEUM: A Benchmark for Evaluating Generalization for Robotic Manipulation"
   statement: "Drawing on insights fromthe paper the task of evaluating generalization in robotic manipulation directly impacts future robot applications and research by emphasizing the critical need for robots to adapt to dynamic, real-world environments. The findings from this paper underscore the importance of developing robotic systems that can perform reliably across a wide range of environmental conditions and tasks, which is essential for their practical deployment in many areas before attempts to scale up robot learning. Therefore, the future direction for skill development in robotics should extend beyond merely accumulating or developing new skills to critically assess the generalization and robustness of these acquired skills."
 - speaker: ""
-  title: "Physics-informed Neural Motion Planning on Constraint Manifolds"
+  title: "KinScene: Model-Based Mobile Manipulation of Articulated Scenes"
   statement: ""
 - speaker: ""
   title: "RoboPack: Learning Tactile-Informed Dynamics Models for Dense Packing"
