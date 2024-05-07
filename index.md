@@ -9,9 +9,12 @@ layout: home
 
 <h1 class="page-heading">A Future Roadmap for Sensorimotor Skill Learning for Robot Manipulation</h1>
 
-<p align="center">
-    <a href="">[Live Stream Link]</a>
+<p class="workshop-location" align="center">
+    Location: G6, North
 </p>
+<!-- <p align="center">
+    <a href="">[Live Stream Link]</a>
+</p> -->
 
 
 <video autoplay muted loop style="object-fit: cover; height: 320px; width: 100%; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.2);">

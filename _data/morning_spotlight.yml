@@ -42,7 +42,7 @@
   title: "D3Fields: Dynamic 3D Descriptor Fields for Zero-Shot Generalizable Robotic Manipulation (Remote)"
   statement: "We propose a representation using foundation vision models to facilitate zero-shot manipulation tasks."
 
-  - speaker: ""
+- speaker: ""
   title: "Robot Air Hockey: A Manipulation Testbed for Robot Learning with Reinforcement Learning"
   statement: "Robot manipulation has made tremendous progress in recent years. By creating Robot Air Hockey, we aim to push the robot manipulation research frontier in two major ways.
 

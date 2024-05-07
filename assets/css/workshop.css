@@ -338,3 +338,9 @@ span.award-other img {
   text-decoration: none;
   cursor: pointer;
 }
+
+.workshop-location {
+  font-weight: bold;
+  color: #f68080f8;
+  font-size: 24px;
+}
