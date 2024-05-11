@@ -65,7 +65,7 @@
   time: 13:10 - 13:30
   img: jane.jpg
   type: keynote
-  description:  "<p>Bridging the Embodiment Gap</p>"
+  description:  "<p>Assumptions about our environment and their implication</p>"
 
 
 - speaker: Lin Shao
@@ -101,7 +101,7 @@
   type: keynote
 
 - speaker:  null
-  title: Panel <br> Robot manipulation through the lens of skills& tasks &#58; the more the merrier?
+  title: Panel <br> Robot manipulation through the lens of skills & tasks &#58; the more the merrier?
   time: 15:30 - 16:30
   img: jane.jpg
   type: keynote
