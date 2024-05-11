@@ -10,7 +10,7 @@ layout: home
 <h1 class="page-heading">A Future Roadmap for Sensorimotor Skill Learning for Robot Manipulation</h1>
 
 <p class="workshop-location" align="center">
-    Location: G6, North
+    May 13th, Location: G6, North
 </p>
 <!-- <p align="center">
     <a href="">[Live Stream Link]</a>
@@ -184,6 +184,15 @@ If you experience issues or have cool features to add, feel free to [fork this t
     selectTokyoTime();
     updateScheduleStyles();
 </script>
+
+<section id="workshop-location" class="mt-5">
+    <h2 class="mb-3">Workshop Location</h2>
+    <div class="row">
+        <div class="col-lg-12 col-md-12 mx-auto">
+            <img src="assets/img/workshop_location.jpg" alt="Workshop Location" class="img-fluid">
+        </div>
+    </div>
+</section>
 
 <!-- Organizers Section -->
 <section id="organizers" class="mt-5">
