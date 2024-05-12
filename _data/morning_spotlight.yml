@@ -59,3 +59,34 @@
 - speaker: ""
   title: "Physics-informed Neural Motion Planning on Constraint Manifolds"
   statement: "Constrained motion planning plays an important role in robot manipulation tasks. For example, opening doors and carrying a glass filled with water both require robots moving on a zero-volume constraint manifold in the configuration space. We propose to use neural networks to solve a partial differential equation to find the geodesic path on the constraint manifold. This approach provides an efficient motion planning strategy and it does not require demonstration paths for learning, thereby enhancing the robot's capacity for manipulation."
+
+- speaker: ""
+  title: "Towards Diverse Behaviors: A Benchmark for Imitation Learning with Human Demonstrations"
+  statement: "This paper focuses on imitation learning with diverse human demonstrations, carries significant implications for future robot applications and research in several ways:
+
+  Enhanced Adaptability: By addressing the challenge of multi-modal data distributions, the proposed approach enables robots to adapt more effectively to diverse human behaviors. This enhanced adaptability is crucial for real-world applications where robots need to interact with a wide range of users with varying behaviors and preferences.
+
+  Robustness and Versatility: The introduction of tractable metrics to quantify diversity provides a practical means to assess the robustness and versatility of imitation learning algorithms. This enables researchers to develop more reliable and adaptable robotic systems capable of handling diverse scenarios and environments.
+
+  Benchmarking and Evaluation: The creation of simulation benchmark environments and datasets specifically designed to evaluate a model's ability to learn multi-modal behavior serves as a valuable benchmark for assessing the performance of state-of-the-art methods. This facilitates comparative evaluations and enables researchers to identify areas for improvement in existing algorithms."
+
+- speaker: ""
+  title: "Movement Primitive Diffusion: Learning Gentle Robotic Manipulation of Deformable Objects"
+  statement: "<b>Impact on Future Robot Applications and Research</b>
+
+  Implementing Movement Primitive Diffusion (MPD) in robot-assisted surgery marks a significant advancement in robotic manipulation, particularly for sensitive tasks like surgery. MPD, which combines diffusion-based imitation learning with probabilistic dynamic movement primitives for refined handling, will profoundly influence robotics in several ways:
+
+  1. Enhanced Motion Quality in Robotic Surgery: By focusing on gentle manipulation of deformable objects, MPD addresses a critical need in RAS for methods that are both data-efficient and capable of generating high-quality motion. This directly translates to improved outcomes in surgical procedures by reducing the risk of injury to surrounding tissues and increasing the quality of robotic movements.
+
+  2. Broadened Application in Robotic Handling of Deformable Objects: The methodology's success in RAS hints at its broader applicability across other sectors that require the manipulation of deformable or delicate objects, such as in cooking or laundry. MPD's versatility and efficiency can drive advancements in these areas by enabling robots to perform tasks previously considered too complex or delicate.
+
+  3. Advancement of Imitation Learning Techniques: MPD contributes to the evolution of imitation learning by demonstrating how combining diffusion-based methods with probabilistic dynamic movement primitives can lead to superior performance in terms of motion quality and data efficiency. This advancement enriches the toolkit available to researchers and developers in robotics, fostering further innovation in how robots learn and adapt to complex tasks.
+
+  <b>Taskonomy Roadmap for Future Robot Manipulation Research</b>
+Building on the foundation laid by MPD, we think of following research opportunities:
+
+  1. Human-Robot Collaboration: Exploring the potential for MPD to enhance human-robot collaboration, where the robot could assist human operators by performing specific tasks under their guidance. This research would involve developing models that can understand and predict human intentions and actions to work seamlessly alongside human operators.
+
+  2. Exploration of non-RAS focused Tasks: The capabilities of MPD to interact with and manipulate deformable tissues should transfer to tasks outside of RAS. This research therefore would explore the potential of MPD in more everyday tasks like cooking and laundry.
+
+  3. Scalability to Complex and Multi-Step Manipulation Tasks: Expanding the scope of MPD to handle more complex and multi-step manipulation tasks is a natural progression. Research could focus on how MPD can be adapted or extended to perform tasks that involve multiple sequential manipulations or interactions with multiple objects."
