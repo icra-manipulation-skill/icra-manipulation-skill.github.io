@@ -112,6 +112,7 @@ If you experience issues or have cool features to add, feel free to [fork this t
 <section id="schedules">
     <h2 class="mb-3">Schedule</h2>
     <!-- Schedule -->
+    <p class="highlight">Because of the last-minute notice about logistiscs of the venue, we are very sorry about the 1-hour delay in the morning time schedule.</p>
     <div class="countdown-container">
     <div class="time-box">
         <span id="days" class="time-number">00</span>

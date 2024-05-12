@@ -1,35 +1,35 @@
 - speaker: Organizers
   title: Opening Remarks
-  time: 09:00 - 09:20
+  time: 10:00 - 10:10
   type: logistics
 
 - speaker: Shuran Song
   title: Opening Keynote
   speaker_webpage: "https://shurans.github.io/"
   affliation: University
-  time: 09:20 - 09:40
+  time: 10:10 - 10:30
   img: jane.jpg
   type: keynote
   description: "<p>Navigating the Upward Spiral for Sensorimotor Learning</p>"
 
 - speaker: Authors of contributions
   title: Spotlight Talks
-  time: 09:40 - 10:20
+  time: 10:30 - 11:10
   img: jane.jpg
   type: keynote
   description: "<a href='/contributions'>Details</a>"
 
-- speaker: null
-  title: Coffee Break and Posters
-  time: 10:20 - 11:00
-  img: jane.jpg
-  type: keynote
+# - speaker: null
+#   title: Coffee Break and Posters
+#   time: 10:20 - 11:00
+#   img: jane.jpg
+#   type: keynote
 
 - speaker: Yunzhu Li
   title: Keynote 1
   speaker_webpage: "https://yunzhuli.github.io/"
   affliation: University
-  time: 11:00 - 11:20
+  time: 11:10 - 11:30
   img: jane.jpg
   type: keynote
   description: "<p>Advancing Robot Learning: Practical and Societal Impact</p>"
@@ -38,7 +38,7 @@
   title: Keynote 2
   speaker_webpage: "https://imankgoyal.github.io/"
   affliation: University
-  time: 11:20 - 11:40
+  time: 11:30 - 11:50
   img: jane.jpg
   type: keynote
   description:  "<p>Towards fast and precise sensorimotor skill learning</p>"
@@ -47,7 +47,7 @@
   title: Keynote 3
   speaker_webpage: "https://zipengfu.github.io/"
   affliation: University
-  time: 11:40 - 12:00
+  time: 11:50 - 12:10
   img: jane.jpg
   type: keynote
   description:  "<p>Towards Deployable Robot Learning Systems</p>"
@@ -100,8 +100,8 @@
   img: jane.jpg
   type: keynote
 
-- speaker:  null
-  title: Panel <br> Robot manipulation through the lens of skills & tasks &#58; What is a skill? What is a task?
+- speaker:  Shuran Song, Georgia Chalvatzaki, Lin Shao
+  title: Panel <br> Robot manipulation through the lens of skills & tasks &#58; <br> What is a skill? What is a task?
   time: 15:30 - 16:30
   img: jane.jpg
   type: keynote
